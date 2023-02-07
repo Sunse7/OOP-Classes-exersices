@@ -24,7 +24,7 @@ console.log(Object.keys(home));
 // 6. Skriv din egen version av home-objektet. Med till exempel color, actor, user etc
 const doggy = {
     name: 'Lucky',
-    breed: 'Kees',
+    breed: 'Keeshond',
     age: '7',
     isFluffy: true,
     writeStuff: function() {
